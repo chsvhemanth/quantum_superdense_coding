@@ -4,3 +4,4 @@ qiskit-aer
 matplotlib
 numpy
 pylatexenc
+networkx
