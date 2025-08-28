@@ -4,8 +4,4 @@ qiskit-aer
 matplotlib
 numpy
 pylatexenc
-<<<<<<< HEAD
 networkx
-=======
-netowrkx
->>>>>>> 64884ce (Added updated requirements.txt to main branch)
