@@ -5,6 +5,8 @@ It reveals each step of the protocol interactively, helping you understand how *
 
 👉 **Live Demo:** [Quantum Superdense Coding App](https://quantum-superdense-coding.streamlit.app/)
 
+After our initial prototype we have createed another demo showcasing parallel comparison of both Quantum Superdense Encoding and Classical Transmission. The website is available at 
+(https://quantumsuperdensecodingandclassicalcomparison.streamlit.app/).
 ---
 
 ## ✨ Features
